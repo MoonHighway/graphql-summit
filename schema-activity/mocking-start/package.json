@@ -1,0 +1,16 @@
+{
+  "name": "mocking-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon . -e js,graphql, json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.1.0",
+    "graphql": "^14.0.2",
+    "nodemon": "^1.18.4"
+  }
+}
